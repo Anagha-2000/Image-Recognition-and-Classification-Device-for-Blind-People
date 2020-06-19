@@ -1,6 +1,6 @@
 # **Image Recognition and Classification Device for Blind People**
 
-## STUDENT CODE-IN
+## **STUDENT CODE-IN**
 
 #### **About Student Code-In** 
 
